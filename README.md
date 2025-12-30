@@ -1,3 +1,5 @@
+# MiniExcel (C)
+
 MiniExcel is what happens when you get tired of bloated spreadsheet software trying to cosplay as an operating system.
 
 It’s a spreadsheet engine that remembers what spreadsheets were supposed to be: obedient, fast, and invisible.
