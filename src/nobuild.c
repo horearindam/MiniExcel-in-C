@@ -6,13 +6,13 @@
 int main(int argc, char** argv)
 {
     GO_REBUILD_URSELF(argc, argv);
-    CMD("cc", CFLAGS, "-o", "../build/main", "main.c");
+    CMD("cc", CFLAGS, "-o", "./build/main", "./src/main.c");
 
     if(argc > 1)
     {
         if(strcmp(argv[1], "run") == 0)
         {
-            CMD("../build/main");
+            CMD("./build/main");
         } else {
             PANIC("Unknown command: %s\n", argv[1]);
         }
