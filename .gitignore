@@ -1,11 +1,12 @@
 # Prerequisites
 *.d
 
-# Object files
+# Object files & folders
 *.o
 *.ko
 *.obj
 *.elf
+./build/
 
 # Linker output
 *.ilk
