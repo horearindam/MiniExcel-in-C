@@ -17,12 +17,6 @@ Under the hood it’s doing quiet, unglamorous hero work:
 
 It’s the kind of tool that disappears into pipelines, ETL jobs, test harnesses, and batch processors — the places where real systems live, far away from shiny dashboards and subscription pop-ups.
 
-MiniExcel doesn’t try to be your spreadsheet.
-It tries to be your spreadsheet’s nervous system.
-
-A clean nerve. Fast reflexes. No attitude.
-
-Spreadsheets stop being “documents.”
-They become data streams again.
+MiniExcel doesn’t try to be your spreadsheet. It tries to be your spreadsheet’s nervous system. A clean nerve. Fast reflexes. No attitude. Spreadsheets stop being “documents.” They become data streams again.
 
 Which is exactly how the 90s would’ve done it - if they’d had your RAM and better coffee.
